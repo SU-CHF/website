@@ -1,0 +1,50 @@
+---
+title: "Our Team"
+format:
+  html:
+    css: styles.css
+    page-layout: full
+    toc: false
+    number-sections: false
+    anchor-sections: false
+---
+
+:::: {.team-grid}
+
+::: {.team-member}
+![](/images/team/jesse-naidoo.jpg)
+
+### Jesse Naidoo
+#### Director
+
+Jane leads our data science initiatives with over 10 years of experience in machine learning and statistical analysis.
+
+[<i class="fas fa-envelope"></i>](mailto:) 
+[<i class="fas fa-globe"></i>](https://jnaidoo.rbind.io/) 
+:::
+
+::: {.team-member}
+![](/images/team/allan-davids.jpg)
+
+### Allan Davids
+#### Senior Researcher
+
+John has been developing innovative software solutions for 15 years, specializing in web technologies and data visualization.
+
+[<i class="fas fa-envelope"></i>](mailto:) 
+[<i class="fas fa-globe"></i>](https://allandav.github.io/) 
+:::
+
+::: {.team-member}
+![](/images/team/matthew-olckers.jpg)
+
+### Matthew Olckers
+#### Senior Researcher
+
+Alex brings human-centered design principles to our products, ensuring they meet real user needs and provide exceptional experiences.
+
+[<i class="fas fa-envelope"></i>](mailto:) 
+[<i class="fas fa-globe"></i>](https://matthewolckers.com/) 
+:::
+
+::::

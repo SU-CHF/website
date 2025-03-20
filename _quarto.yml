@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Centre for Household Finance"
+  navbar:
+    right:
+      - research.qmd
+      - team.qmd
+  search: false
+  favicon: favicon.png
+
+format:
+  html:
+    theme:
+      - flatly
+    css: styles.css
+    toc: false
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+
+
