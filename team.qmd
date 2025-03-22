@@ -17,7 +17,9 @@ format:
 ### Jesse Naidoo
 #### Director
 
-Jane leads our data science initiatives with over 10 years of experience in machine learning and statistical analysis.
+_PhD, University of Chicago_
+
+_Research interests:_ interaction of formal and informal financial mechanisms, life-cycle dynamics (e.g. retirement savings), intrafamily transfers (e.g. inheritance, divorce, informal insurance).
 
 [<i class="fas fa-envelope"></i>](mailto:) 
 [<i class="fas fa-globe"></i>](https://jnaidoo.rbind.io/) 
@@ -29,7 +31,9 @@ Jane leads our data science initiatives with over 10 years of experience in mach
 ### Allan Davids
 #### Senior Researcher
 
-John has been developing innovative software solutions for 15 years, specializing in web technologies and data visualization.
+_PhD, University of Cape Town_
+
+_Research interests:_ housing markets, consumer credit, consumer financial stress.
 
 [<i class="fas fa-envelope"></i>](mailto:) 
 [<i class="fas fa-globe"></i>](https://allandav.github.io/) 
@@ -41,7 +45,9 @@ John has been developing innovative software solutions for 15 years, specializin
 ### Matthew Olckers
 #### Senior Researcher
 
-Alex brings human-centered design principles to our products, ensuring they meet real user needs and provide exceptional experiences.
+_PhD, Paris School of Economics_
+
+_Research interests:_ intergenerational mobility, financial literacy and the value of advice, behavioural imperfections in consumer decision-making, retirement savings.
 
 [<i class="fas fa-envelope"></i>](mailto:) 
 [<i class="fas fa-globe"></i>](https://matthewolckers.com/) 

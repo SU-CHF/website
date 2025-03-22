@@ -2,7 +2,4 @@
 title: "Centre for Household Finance"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
+We are a research group within the [Department of Economics](https://www.ekon.sun.ac.za) at [Stellenbosch University](https://www.sun.ac.za). Our goal is to advance knowledge about consumer financial markets in developing countries: how they work, and which policies may make them work more efficiently and more equitably.

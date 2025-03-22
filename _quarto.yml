@@ -5,8 +5,12 @@ website:
   title: "Centre for Household Finance"
   navbar:
     right:
-      - research.qmd
-      - team.qmd
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Team
+        href: team.qmd
   search: false
   favicon: favicon.png
 
