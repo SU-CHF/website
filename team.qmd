@@ -23,6 +23,7 @@ _Research interests:_ interaction of formal and informal financial mechanisms, l
 
 [<i class="fas fa-envelope"></i>](mailto:) 
 [<i class="fas fa-globe"></i>](https://jnaidoo.rbind.io/) 
+[<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/jesse-naidoo/)
 :::
 
 ::: {.team-member}
@@ -37,6 +38,7 @@ _Research interests:_ housing markets, consumer credit, consumer financial stres
 
 [<i class="fas fa-envelope"></i>](mailto:) 
 [<i class="fas fa-globe"></i>](https://allandav.github.io/) 
+[<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/allan-davids-34139a99/)
 :::
 
 ::: {.team-member}
@@ -51,6 +53,7 @@ _Research interests:_ intergenerational mobility, financial literacy and the val
 
 [<i class="fas fa-envelope"></i>](mailto:) 
 [<i class="fas fa-globe"></i>](https://matthewolckers.com/) 
+[<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/matthew-olckers/)
 :::
 
 ::::
