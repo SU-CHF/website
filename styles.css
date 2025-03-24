@@ -29,11 +29,22 @@
 }
 
 .team-member {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     border-radius: var(--border-radius);
-    padding: 1.5rem;
+    padding: 1rem;
     background-color: var(--secondary-color);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transition: transform var(--transition-duration) ease;
+}
+
+.team-member-content {
+    flex-grow: 1;
+}
+
+.team-member-links {
+    margin-top: 1rem;
 }
 
 .team-member:hover,

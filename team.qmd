@@ -14,46 +14,58 @@ format:
 ::: {.team-member}
 ![](/images/team/jesse-naidoo.jpg)
 
+<div class="team-member-content">
 ### Jesse Naidoo
 #### Director
 
 _PhD, University of Chicago_
 
 _Research interests:_ interaction of formal and informal financial mechanisms, life-cycle dynamics (e.g. retirement savings), intrafamily transfers (e.g. inheritance, divorce, informal insurance).
+</div>
 
+<div class="team-member-links">
 [<i class="fas fa-envelope"></i>](mailto:) 
 [<i class="fas fa-globe"></i>](https://jnaidoo.rbind.io/) 
 [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/jesse-naidoo/)
+</div>
 :::
 
 ::: {.team-member}
 ![](/images/team/allan-davids.jpg)
 
+<div class="team-member-content">
 ### Allan Davids
 #### Senior Researcher
 
 _PhD, University of Cape Town_
 
 _Research interests:_ housing markets, consumer credit, consumer financial stress.
+</div>
 
+<div class="team-member-links">
 [<i class="fas fa-envelope"></i>](mailto:) 
 [<i class="fas fa-globe"></i>](https://allandav.github.io/) 
 [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/allan-davids-34139a99/)
+</div>
 :::
 
 ::: {.team-member}
 ![](/images/team/matthew-olckers.jpg)
 
+<div class="team-member-content">
 ### Matthew Olckers
 #### Senior Researcher
 
 _PhD, Paris School of Economics_
 
 _Research interests:_ intergenerational mobility, financial literacy and the value of advice, behavioural imperfections in consumer decision-making, retirement savings.
+</div>
 
+<div class="team-member-links">
 [<i class="fas fa-envelope"></i>](mailto:) 
 [<i class="fas fa-globe"></i>](https://matthewolckers.com/) 
 [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/matthew-olckers/)
+</div>
 :::
 
 ::::
