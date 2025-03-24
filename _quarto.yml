@@ -4,20 +4,25 @@ project:
 website:
   title: "Centre for Household Finance"
   navbar:
+    title: false
+    logo: "images/logo.svg"
     right:
-      - text: Home
-        href: index.qmd
       - text: Research
         href: research.qmd
       - text: Team
         href: team.qmd
   search: false
   favicon: favicon.png
+  page-footer:
+    background: dark 
+    right: |
+      &copy; 2025 Centre for Household Finance.
 
 format:
   html:
     theme:
       - flatly
+      - custom.scss
     css: styles.css
     toc: false
     include-in-header:

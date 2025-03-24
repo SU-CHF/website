@@ -3,3 +3,7 @@ title: "Centre for Household Finance"
 ---
 
 We are a research group within the [Department of Economics](https://www.ekon.sun.ac.za) at [Stellenbosch University](https://www.sun.ac.za). Our goal is to advance knowledge about consumer financial markets in developing countries: how they work, and which policies may make them work more efficiently and more equitably.
+
+We use tools from applied microeconomics and causal inference to study how people make financial decisions and what influences their choices. We focus on South African survey and administrative data in a variety of domains, including retirement, insurance, and credit.
+
+![](images/banner_001.jpg)

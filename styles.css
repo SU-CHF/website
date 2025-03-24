@@ -19,6 +19,10 @@
     color: white;
 }
 
+.navbar-logo {
+    max-height: 100px;
+}
+
 /* Team grid layout */
 .team-grid {
     display: grid;
@@ -60,7 +64,7 @@
     aspect-ratio: 1 / 1; 
     object-fit: cover;
     border-radius: 4px;
-    margin-bottom: 0.5rem;
+    margin-bottom: 1rem;
 }
 
 .team-member h3 {
