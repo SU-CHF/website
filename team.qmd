@@ -20,12 +20,11 @@ format:
 
 _PhD, University of Chicago_
 
-Jesse's research interests include the interaction of formal and informal financial systems, retirement savings, and how households use the financial system to navigate major life events like death and divorce.
+Jesse's research interests include the interaction of formal and informal finance, retirement savings, and how households use the financial system to navigate major life events like death and divorce.
 </div>
 
 <div class="team-member-links">
-[<i class="fas fa-envelope"></i>](mailto:) 
-[<i class="fas fa-globe"></i>](https://jnaidoo.rbind.io/) 
+[<i class="fas fa-link"></i>](https://jnaidoo.rbind.io/) 
 [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/jesse-naidoo/)
 </div>
 :::
@@ -42,9 +41,8 @@ _PhD, University of Cape Town_
 Allan's research focusses on housing, which is often the largest asset and largest liability for households. He focusses on how housing and credit decisions can be a driver of wealth inequality.
 </div>
 
-<div class="team-member-links">
-[<i class="fas fa-envelope"></i>](mailto:) 
-[<i class="fas fa-globe"></i>](https://allandav.github.io/) 
+<div class="team-member-links"> 
+[<i class="fas fa-link"></i>](https://allandav.github.io/) 
 [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/allan-davids-34139a99/)
 </div>
 :::
@@ -62,8 +60,7 @@ Matthew's research interests include retirement saving, financial advice, and in
 </div>
 
 <div class="team-member-links">
-[<i class="fas fa-envelope"></i>](mailto:) 
-[<i class="fas fa-globe"></i>](https://matthewolckers.com/) 
+[<i class="fas fa-link"></i>](https://matthewolckers.com/) 
 [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/matthew-olckers/)
 </div>
 :::
