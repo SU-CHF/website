@@ -1,6 +1,17 @@
 /*-- scss:defaults --*/
 
 $dark: #61223b !default;
+$link-color: #61223b !default;
 
 /*-- scss:rules --*/
 
+a {
+    text-decoration: none;
+    color: $link-color;
+    opacity: 1;
+
+    &:hover {
+        opacity: 0.6;
+        text-decoration: underline;
+    }
+}
