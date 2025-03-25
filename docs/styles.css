@@ -108,10 +108,17 @@
 @media (max-width: 768px) {
     .navbar-container {
         flex-direction: row-reverse;
+        padding: 0;
+    }
+
+    .navbar .navbar-container > .navbar-brand-container {
+        margin-left: 0 !important; 
+        margin-right: auto !important;
     }
 
     .navbar-brand-container {
         order: -1;
+        max-width: calc(100% - 10px);
     }
 
     .navbar-logo {
