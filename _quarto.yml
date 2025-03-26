@@ -12,6 +12,8 @@ website:
         href: research.qmd
       - text: Team
         href: team.qmd
+      - text: Contact
+        href: contact.qmd
   search: false
   favicon: favicon.png
   page-footer:

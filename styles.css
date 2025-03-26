@@ -104,6 +104,27 @@
     color: var(--hover-color);
 }
 
+
+/* Contact page */
+
+.email-contact {
+    font-size: 1.3rem; /* Adjust size as needed */
+    font-weight: bold;
+}
+
+.email-contact a {
+    text-decoration: none;
+}
+
+.email-contact a:hover {
+    text-decoration: underline;
+}  
+
+iframe {
+    border-radius: 10px;
+}
+
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
     .navbar-container {
