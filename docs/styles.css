@@ -107,16 +107,16 @@
 
 /* Contact page */
 
-.email-contact {
+.contact {
     font-size: 1.3rem; /* Adjust size as needed */
-    font-weight: bold;
+    color: var(--primary-color);
 }
 
-.email-contact a {
+.contact a {
     text-decoration: none;
 }
 
-.email-contact a:hover {
+.contact a:hover {
     text-decoration: underline;
 }  
 
