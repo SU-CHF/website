@@ -6,7 +6,7 @@ website:
   title: "Centre for Household Finance"
   navbar:
     title: false
-    logo: "images/logo.svg"
+    logo: "images/logo.png"
     right:
       - text: Research
         href: research.qmd

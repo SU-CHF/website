@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Our Team",
-    "section": "",
-    "text": "Jesse Naidoo\n\nDirector\nPhD, University of Chicago\nJesse’s research interests include the interaction of formal and informal finance, retirement savings, and how households use the financial system to navigate major life events like death and divorce.\n\n\n\n \n\n\n\n\n\nAllan Davids\n\nSenior Researcher\nPhD, University of Cape Town\nAllan’s research focuses on housing, which is often the largest asset and largest liability for households. He focuses on how housing and credit decisions can be a driver of wealth inequality.\n\n\n\n \n\n\n\n\n\nMatthew Olckers\n\nSenior Researcher\nPhD, Paris School of Economics\nMatthew’s research interests include retirement saving, financial advice, and informal borrowing. His past research includes projects on financial literacy, adoption of mobile money, and sports betting."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Centre for Household Finance",
@@ -33,5 +26,12 @@
     "title": "Our Research",
     "section": "",
     "text": "We focus on advancing knowledge in household finance and development economics while generating insights that can inform local policy. Below are some of our current projects.\nCurrent Projects\nMortgage Pricing in South Africa\nAccess to affordable housing finance is essential for economic mobility, yet mortgage pricing can vary significantly across different groups of applicants. This project investigates disparities in mortgage offer probabilities and interest rates based on factors such as age, gender, marital status, and first-time buyer status. By identifying potential biases and inefficiencies in the mortgage market, our research aims to contribute to policies that promote fair and transparent lending practices.\nThe Market for Funeral Insurance in South Africa\nFuneral insurance is one of the most widely purchased financial products in South Africa, while life insurance remains far less common. This project explores the extent to which these two products serve as substitutes, examining both supply- and demand-side factors. On the supply side, we assess regulatory barriers and industry practices that shape market offerings. On the demand side, we analyze how differences in mortality rates, income levels, and family structure — such as intergenerational living arrangements — affect consumer choices. Understanding these dynamics can help improve financial products and policies to better serve South African households."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Our Team",
+    "section": "",
+    "text": "Jesse Naidoo\n\nDirector\nPhD, University of Chicago\nJesse’s research interests include the interaction of formal and informal finance, retirement savings, and how households use the financial system to navigate major life events like death and divorce.\n\n\n\n \n\n\n\n\n\nAllan Davids\n\nSenior Researcher\nPhD, University of Cape Town\nAllan’s research focuses on housing, which is often the largest asset and largest liability for households. He focuses on how housing and credit decisions can be a driver of wealth inequality.\n\n\n\n \n\n\n\n\n\nMatthew Olckers\n\nSenior Researcher\nPhD, Paris School of Economics\nMatthew’s research interests include retirement saving, financial advice, and informal borrowing. His past research includes projects on financial literacy, adoption of mobile money, and sports betting."
   }
 ]
